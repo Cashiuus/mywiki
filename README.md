@@ -25,4 +25,4 @@ repository may disappear; time will tell the tale.
 
 
 
-See http://www.mdwiki.info/ for official documentation and details.
+See [MDWiki](http://www.mdwiki.info/) for official documentation and details.
