@@ -1,4 +1,5 @@
-
+Recipe: Currency
+================
 
 
 
@@ -25,7 +26,7 @@ and rendered with the $ symbol
 
 **Model Usage**
 
-```
+```python
 import moneyed
 from djmoney.models.fields import MoneyField
 from django.db import models
@@ -47,9 +48,9 @@ This site has an API for currency exchange rates (not free): https://openexchang
 
 * It uses this if you set an API key in settings
   * Use the command `updatecurrencies` to run the API call routine to update exchange rates
-  * `OPENEXCHANGERATES_APP_ID = "..."
+  * `OPENEXCHANGERATES_APP_ID = "..."`
   * Command `currencies` will import any currencies that are defined on openexchangerates.org
-  * Selective Ex: `./manage.py currencies --import=USD --import=EUR
+  * Selective Ex: `./manage.py currencies --import=USD --import=EUR`
 
 #### Usage
 
