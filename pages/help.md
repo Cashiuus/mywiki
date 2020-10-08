@@ -8,7 +8,6 @@ Wiki Help Topics & Tips
 * [My Own Getting Started](getting-started.md): My own instructions for starting your own wiki from scratch.
 
 
-
 * [Dynalon](https://github.com/Dynalon/mdwiki/blob/gh-pages)
 * [Quick Start](https://dynalon.github.io/mdwiki/#!quickstart.md)
 * [Dynalon - Rainy Site](https://github.io/Rainy)
@@ -31,6 +30,7 @@ Wiki Help Topics & Tips
 
 * [GitHub Basic Writing and Formatting](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 * [Github Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
 
@@ -113,6 +113,19 @@ This is a hyperlink to [Markdown Cheat Sheet](https://github.com/adam-p/markdown
 [Another Page](another-page.md)
 [A Nested Page](pages/other/nested-page.md)
 ```
+
+## Emojis
+
+You can add emoji's using their colon-syntax. See here: https://webfx.com/tools/emoji-cheat-sheet/
+
+:bowtie: :wink:
+
+
+
+## Note Boxes
+
+**NOTE**: This is a blue note box done by putting two asterisks \* around the word NOTE
+
 
 
 ## Tables

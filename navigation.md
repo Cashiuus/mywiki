@@ -13,6 +13,7 @@ Cash Wiki
 
 [Pentest]()
 
+  * [Pentest Home](pages/pentest/index-pentest.md)
   * [Metasploit](pages/pentest/metasploit.md)
   - - - -
   * [Lists](pages/pentest/lists/lists.md)
@@ -26,6 +27,11 @@ Cash Wiki
   * [Pivoting](pages/pentest/pivoting.md)
   * [Harvesting](pages/pentest/harvesting.md)
   * [Reporting](pages/pentest/reporting.md)
+
+[Tools](pages/tools/index-tools.md)
+
+  * [Tools Home](pages/tools/index-tools.md)
+
 
 [Programming]()
 
@@ -42,9 +48,7 @@ Cash Wiki
   * [CTF](pages/ctf/index.md)
 
 
-[Links]()
-
-  * [Linkmaster](pages/reference/links.md)
+[Linkmaster](pages/reference/links.md)
 
 
 [Footlocker]()
