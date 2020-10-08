@@ -1,6 +1,3 @@
-ITS Wiki
-========
-
 ## My Wiki
 
 [Wiki Site](http://Cashiuus.github.io/mywiki)
@@ -20,9 +17,9 @@ repository may disappear; time will tell the tale.
 
 ## Run Wiki Locally
 
-Just cd into the root project directory and run the `run-pyserver.sh` script.
+    1. `cd` into the root project directory and run the `run-pyserver.sh` script.
 
-
+    2. Navigate to http://localhost:9000/
 
 
 

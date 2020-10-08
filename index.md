@@ -45,5 +45,6 @@ I owe credit to the following projects, old and recent, for some worthwhile cont
 - - - -
 
 
-
-[gimmick:ForkMeOnGitHub ({ color: 'red',  position: 'right' })](http://www.github.com/Cashiuus/mywiki)
+<!--
+  -- [gimmick:ForkMeOnGitHub ({ color: 'red',  position: 'right' })](http://www.github.com/Cashiuus/mywiki)
+-->
